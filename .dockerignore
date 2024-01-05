@@ -1,0 +1,6 @@
+.ebextension/
+e2emlproject.egg-info/
+logs/
+venv/
+*.venv
+*.ipynb
